@@ -1,4 +1,4 @@
-port streamlit as st 
+import streamlit as st 
 
 # 포지션별 농구화 추천 데이터
 shoe_recommendations = {
